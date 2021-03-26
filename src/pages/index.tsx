@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 
-const teste = 'asdsad'
+const errado = 'asdsad'
 
 export default function Home() {
   return (
